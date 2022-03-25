@@ -1,10 +1,10 @@
 //dichiaro le due parole
 
-let parola1 = prompt("inserisci la prima parola");
+let parola1 = prompt("inserisci La prima parola");
 //rimuovo possibili spazi all'inizio e alla fine della stringa
 parola1 = parola1.trim();
 
-let parola2 = prompt("inserisci la seconda parola");
+let parola2 = prompt("inserisci La seconda parola");
 //rimuovo possibili spazi all'inizio e alla fine della stringa
 parola2 = parola2.trim();
 
