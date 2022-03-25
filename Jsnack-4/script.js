@@ -23,6 +23,7 @@ if(Controllo == false){
     alert("Mi dispiace ma lei non è in lista");
 }
 
+document.getElementById("Invitati").innerHTML = InLista;
 
 
 
